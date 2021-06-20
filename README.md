@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gamme40
 
-Welcome to my personal GitHub. Everything here is open-source as I believe strongly that information should not have prices.
-Well information that won't cause our society to deviate from idealism.
+Welcome to my personal GitHub. Everything here is open-source.
 
 - 👀 I’m interested in creating autonomous and dynamic real-time application software.
 - 🌱 I’m currently studying a degree towards becoming a Computer Engineer.
