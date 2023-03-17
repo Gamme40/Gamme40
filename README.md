@@ -3,7 +3,6 @@
 Welcome to my personal GitHub. Everything here is open-source.
 
 - 👀 I’m interested in creating autonomous and dynamic real-time application software.
-- 🌱 I’m currently studying a degree towards becoming a Computer Engineer.
 - 💞️ I’m looking to collaborate on anything that will improve my current capabilities.
 - 📫 You are welcome to email me.
 
